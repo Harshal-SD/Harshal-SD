@@ -1,4 +1,6 @@
-
+<div style="width: 300px; height: 150px;">
+  <img src="https://github.com/Harshal-SD/Harshal-SD/blob/main/github-header-image.png" alt="Logo" style="width: 100%; height: 100%;">
+</div>
 
 # 💫 About Me:
 <img align="right" alt = "coding" width = "340" src = "https://imgs.search.brave.com/11DWmFu-wB27zXlC92RMaKEh4KfeVHnsvgzvxuQRMz8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYW5pbWF0/ZWQtbWFuLWNvbXB1/dGVyLWNvZGluZy1u/YWU2bWVjMzc4bHNn/MWkzLmdpZg.gif" >
